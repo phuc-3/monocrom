@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "abcphucxyz.aternos.me:51557",
+    "ip": "abcphucxyz.aternos.me",
     "port": 51557,
     "version": "1.21.11",
     "try-creative": false
